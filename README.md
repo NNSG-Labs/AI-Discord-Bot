@@ -2,5 +2,5 @@
 AI Discord Bot
 
 # server
-Flask
+Flask or Django
 
