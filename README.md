@@ -1,6 +1,6 @@
 # AI-Discord-Bot
 AI Discord Bot
 
-#server
+# server
 Flask
 
